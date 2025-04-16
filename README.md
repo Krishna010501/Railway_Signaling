@@ -27,8 +27,7 @@ simulation_cli/
 
 **Krishna Pavan Kalyan Inturi**  
 M.S. Computer Science (AI/ML)  
-[LinkedIn](http://linkedin.com/in/krishna-pavan-kalyan-inturi)  
-[GitHub](https://github.com/Krishna010501)
+
 
 ---
 
