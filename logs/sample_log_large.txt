@@ -1,0 +1,6 @@
+Timestamp: 2025-04-09 08:00:00 | Signal: GREEN | Zone: A1 | Train_ID: T123
+Timestamp: 2025-04-09 08:01:05 | Signal: RED | Zone: A2 | Train_ID: T123 | Fault: Track Circuit Failure
+Timestamp: 2025-04-09 08:02:10 | Signal: YELLOW | Zone: A2 | Train_ID: T123 | Recovery Mode
+Timestamp: 2025-04-09 08:03:15 | Signal: GREEN | Zone: A3 | Train_ID: T123
+Timestamp: 2025-04-09 08:04:20 | Signal: RED | Zone: B1 | Train_ID: T999 | Fault: Axle Counter Reset
+Timestamp: 2025-04-09 08:05:25 | Signal: YELLOW | Zone: B1 | Train_ID: T999 | Recalibrated
